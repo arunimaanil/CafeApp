@@ -1,0 +1,147 @@
+
+.add-cart{
+  padding-left: 7px;
+    padding-right: 8px;
+    color: #ffffff;
+    background-color: green;
+    padding-left: -6px;
+    margin-left: 1rem;
+}
+.add-cartone{
+  padding-left: -0.75rem;
+  margin-left: 1rem;
+  text-align: center;
+  color: #ffffff;
+}
+.add-carttwo{
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 1.25rem;
+  color: #ffffff;
+  background-color: green;
+}
+.availability{
+  margin-top: 0.75rem;
+margin-bottom: 0.75rem; 
+font-family: Georgia, Cambria, "Times New Roman", Times, serif; 
+color: #DC2626; 
+}
+.dish-name{
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif; 
+font-size: 1.5rem;
+line-height: 2rem; 
+box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); 
+}
+.dish-currency{
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif; 
+}
+.dish-desc{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+  font-weight: normal;
+}
+.dish-calories{
+  margin-left: 1.25rem;
+margin-right: 1.25rem; 
+justify-content: flex-end; 
+font-weight: 500; 
+text-align: center; 
+}
+.dish-image{
+  object-fit: cover; 
+justify-content: flex-end; 
+}
+.menu{
+  width: 100%; 
+height: 2.5rem; 
+box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+}
+.navlist{
+  display: flex; 
+padding-top: 0.75rem; 
+justify-content: space-between; 
+width: 100%; 
+background-color: #ffffff; 
+}
+.rest-name{
+  margin-top: 0.75rem;
+margin-bottom: 0.75rem; 
+margin-left: 0.75rem;
+margin-right: 0.75rem; 
+font-weight: 500; 
+
+}
+.order{
+  display: flex; 
+margin-top: 0.75rem;
+margin-bottom: 0.75rem; 
+}
+.myorder{
+  margin-left: 1.25rem;
+margin-right: 1.25rem; 
+
+}
+.cartcou{
+  margin-right: 1.25rem; 
+border-radius: 9999px; 
+width: 1.5rem; 
+height: 1.5rem; 
+text-align: center; 
+color: #ffffff; 
+background-color: #DC2626; 
+
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+article {
+  width: 100%;
+  margin: auto;
+}
+
+.cart_box img {
+  width: 100px;
+  height: 100px;
+}
+.cart_img {
+  display: flex;
+  width: 100px;
+  margin:auto ;
+}
+
+.cart_img p {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.cart_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-bottom: 2px solid rgb(218, 221, 223);
+  padding-bottom: 5px;
+  width:100%
+}
+
+.quantity-button{
+  display: flex; 
+margin-top: 0.75rem;
+margin-bottom: 0.75rem; 
+border-radius: 9999px; 
+width: 126px; 
+background-color: green; 
+}
+
+
+.header{
+  width: 100%;
+}
+
+.navbar{
+  max-width: 1550px;
+  margin: 0 auto;
+  }
+
+
